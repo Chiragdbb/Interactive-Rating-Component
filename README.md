@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 -   Solution URL: [Github](https://github.com/Chiragdbb/interactive-rating-component)
--   Live Site URL: [here](https://interactive-card-component-chiragdbb.netlify.app)
+-   Live Site URL: [here](https://interactive-rating-card-chiragdbb.netlify.app/)
 
 ## Author
 
