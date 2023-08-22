@@ -46,7 +46,7 @@ const Rating = () => {
 										className={
 											rating === "1"
 												? "mt-[3px] text-white font-semibold text-lg"
-												: "mt-[3px] text-mediumGrey font-semibold text-lg group-hover:text-white transition-colors duration-150 transition-colors duration-150"
+												: "mt-[3px] text-mediumGrey font-semibold text-lg group-hover:text-white  transition-colors duration-150"
 										}
 									>
 										1
