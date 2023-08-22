@@ -17,6 +17,9 @@ export default {
 			fontFamily: {
 				overpass: "Overpass",
 			},
+			screens: {
+				mobile: "450px",
+			},
 		},
 	},
 	plugins: [],
