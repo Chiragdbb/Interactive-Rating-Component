@@ -1,9 +1,10 @@
+import Rating from "./components/Rating";
 import "./index.css";
 
 function App() {
 	return (
-		<div>
-			<h1>Rating Component</h1>
+		<div className="font-overpass bg-veryDarkBlue w-screen h-screen flex justify-center items-center">
+      <Rating/>
 		</div>
 	);
 }
